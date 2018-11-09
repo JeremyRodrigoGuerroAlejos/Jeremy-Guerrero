@@ -49,7 +49,7 @@ Pero todo es una gran farsa…”<br>
 Ango Sakaguchi (1906-1955)</li>
   <br> 
   <h3>Paginas de referencia</h3>
-<p><a href="https://portfolio-45bb7.firebaseapp.com/">Grace Nikole Alvarado Salazar</a></p>
+<p><a href="https://gracenikole.github.io/gracenikole/">Grace Nikole Alvarado Salazar</a></p>
 <p><a href="https://www.w3schools.com">W3Schools</a></p>
 <p><a href="https://mindinentropy.wordpress.com/the-holders/">Holders</a></p>
 

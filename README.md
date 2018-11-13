@@ -52,7 +52,11 @@ Ango Sakaguchi (1906-1955)</li>
 <p><a href="https://gracenikole.github.io/gracenikole/">Grace Nikole Alvarado Salazar</a></p>
 <p><a href="https://www.w3schools.com">W3Schools</a></p>
 <p><a href="https://mindinentropy.wordpress.com/the-holders/">Holders</a></p>
-
+<p><a href="https://juancarlossalascas.wixsite.com/website">Juan carlos salas casas</a></p>
+<p><a href="https://alesuarezchavez.github.io/">Alexandra Suarez Chavez</a></p>
+<p><a href="https://luanagarcia.000webhostapp.com/">Luana García</a></p>
+<p><a href="https://sebastianknell.000webhostapp.com">Sebastian Knell</a></p>
+<p><a href="https://ruben-castaneda-arroyo.000webhostapp.com/">Rubén Castañeda Arroyo</a></p>
 </p>
 </body>
 </html>

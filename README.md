@@ -57,6 +57,20 @@ Ango Sakaguchi (1906-1955)</li>
 <p><a href="https://luanagarcia.000webhostapp.com/">Luana García</a></p>
 <p><a href="https://sebastianknell.000webhostapp.com">Sebastian Knell</a></p>
 <p><a href="https://ruben-castaneda-arroyo.000webhostapp.com/">Rubén Castañeda Arroyo</a></p>
+<p><a href="http://victorcordovapoma.xyz">Víctor Andres Cordova poma</a></p>
+<p><a href="https://emelin25.github.io/emelincangalaya/">Emelin Roxana Cangalaya Camarena </a></p>
+<p><a href="https://xxabelardexx.000webhostapp.com/lawebdeabelardo">Abelardo Edilberto Hidalgo Francoa</a></p>
+<p><a href="https://gunpowderguy.gitlab.io/diego-rosario-sitio-web">Diego Antonio Rosario Palomino</a></p>
+<p><a href="http://guillermosuarez.byethost13.com/">guillermo rojas suarez</a></p>
+<p><a href="https://rodrigo226.000webhostapp.com/">Rodrigo Velarde Gonzalez</a></p>
+<p><a href="https://andersondanielsoriablas.000webhostapp.com/">Anderson Daniel Soria Blas</a></p>
+<p><a href="https://jesusalexanderpuentesalazar.github.io/jesuspuente.github.io/">Jesus Puente Salazar</a></p>
+<p><a href="https://xxjeanpaulxx.000webhostapp.com/">Jean Paul Melendez Cabezas</a></p>
+<p><a href="https://mitzi-lobaton-rodriguez.000webhostapp.com">Mitzi Lobatón Rodríguez </a></p>
+<p><a href="https://igici.github.io/pagina/fernandoradaorellana.html">Rada Orellana Fernando</a></p>
+<p><a href="http://eduardomedina17.com/">Eduardo Medina</a></p>
+<p><a href="https://juanpaulllamccayaarone.000webhostapp.com/juan%20paul%20llamccaya%20arone#service">juan paul llamccaya arone</a></p>
+
 </p>
 </body>
 </html>
